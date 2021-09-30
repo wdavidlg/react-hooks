@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <TodoAdd /> Otra forma de hacerlo todo, yver si el reset funciona 1`] = `
+<Fragment>
+  <h4>
+    Add Task
+  </h4>
+  <hr />
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      autoComplete="off"
+      className="form-control"
+      name="task"
+      onChange={[Function]}
+      placeholder="Task"
+      type="text"
+      value=""
+    />
+    <button
+      className="btn btn-outline-primary btn-add"
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+</Fragment>
+`;
